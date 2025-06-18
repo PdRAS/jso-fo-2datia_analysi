@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Cupons com resgate direto na Shopee",
-    "description": "Você pode verificar todos os cupons disponíveis na Shopee. Vários tipos de cupons para várias categorias.",
+    "description": "Você pode verificar todos os cupons disponíveis na Shopee. Vários tipos de cupons para várias categorias",
     "coupon": null,
     "shop": "shopee",
     "disponible": true,
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "title": "Cupom 50% de desconto direto na Shopee",
-    "description": "Cupom para novos usuários e serve para todos itens de todas categorias.",
+    "description": "Cupom para novos usuários e serve para todos itens de todas categorias",
     "coupon": null,
     "shop": "shopee",
     "disponible": true,
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "title": "Cupom 20 reais primeira compra (mínimo 40 reais)",
-    "description": "A aplicação do desconto é elegível somente para produtos vendidos e entregues pelo Magazine Luiza.",
+    "description": "A aplicação do desconto é elegível somente para produtos vendidos e entregues pelo Magazine Luiza",
     "coupon": "MAGALU20",
     "shop": "magalu",
     "disponible": true,
@@ -158,7 +158,7 @@
   {
     "id": 13,
     "title": "15% OFF em Moda: Roupas, Calçados e Acessórios",
-    "description": "Cupom LOOK15: 15% de desconto em roupas, calçados e acessórios de moda",
+    "description": "15% de desconto em roupas, calçados e acessórios de moda",
     "coupon": "LOOK15",
     "shop": "mercado-livre",
     "disponible": true,
@@ -171,7 +171,7 @@
   {
     "id": 14,
     "title": "15% OFF em Casa, Móveis e Decoração",
-    "description": "Cupom CASA15: 15% de desconto em produtos para casa, móveis e decoração",
+    "description": "15% de desconto em produtos para casa, móveis e decoração",
     "coupon": "CASA15",
     "shop": "mercado-livre",
     "disponible": true,
@@ -184,7 +184,7 @@
   {
     "id": 15,
     "title": "15% OFF em Materiais de Construção e Decoração",
-    "description": "Cupom 15CONSTRUIR: 15% de desconto em materiais para casa e reformas",
+    "description": "15% de desconto em materiais para casa e reformas",
     "coupon": "15CONSTRUIR",
     "shop": "mercado-livre",
     "disponible": true,
@@ -197,7 +197,7 @@
   {
     "id": 16,
     "title": "15% OFF em Eletrônicos e Informática",
-    "description": "Cupom QUINZEOFF: 15% de desconto em eletrônicos, celulares e informática",
+    "description": "15% de desconto em eletrônicos, celulares e informática",
     "coupon": "QUINZEOFF",
     "shop": "mercado-livre",
     "disponible": true,
@@ -210,7 +210,7 @@
   {
     "id": 17,
     "title": "12% OFF em Esportes, Fitness e Saúde",
-    "description": "Cupom ESPORTE12: 12% de desconto em artigos esportivos e saúde",
+    "description": "12% de desconto em artigos esportivos e saúde",
     "coupon": "ESPORTE12",
     "shop": "mercado-livre",
     "disponible": true,
@@ -223,7 +223,7 @@
   {
     "id": 18,
     "title": "12% OFF em Produtos de Saúde e Bem-Estar",
-    "description": "Cupom 12SAUDE: 12% de desconto em suplementos e cuidados com a saúde",
+    "description": "12% de desconto em suplementos e cuidados com a saúde",
     "coupon": "12SAUDE",
     "shop": "mercado-livre",
     "disponible": true,
@@ -236,7 +236,7 @@
   {
     "id": 19,
     "title": "12% OFF em Beleza e Cuidados Pessoais",
-    "description": "Cupom BELEZA12: 12% de desconto em cosméticos e produtos de beleza",
+    "description": "12% de desconto em cosméticos e produtos de beleza",
     "coupon": "BELEZA12",
     "shop": "mercado-livre",
     "disponible": true,
@@ -249,7 +249,7 @@
   {
     "id": 20,
     "title": "12% OFF em Peças e Acessórios para Veículos",
-    "description": "Cupom 12VEICULO: 12% de desconto em pneus, peças e acessórios automotivos",
+    "description": "12% de desconto em pneus, peças e acessórios automotivos",
     "coupon": "12VEICULO",
     "shop": "mercado-livre",
     "disponible": true,
@@ -262,7 +262,7 @@
   {
     "id": 21,
     "title": "10% OFF em Brinquedos e Produtos Infantis",
-    "description": "Cupom BRINCADEIRA10: 10% de desconto em brinquedos, bebês e festas",
+    "description": "10% de desconto em brinquedos, bebês e festas",
     "coupon": "BRINCADEIRA10",
     "shop": "mercado-livre",
     "disponible": true,
@@ -275,7 +275,7 @@
   {
     "id": 22,
     "title": "10% OFF em Eletrônicos e Gadgets",
-    "description": "Cupom TECNOLOGIA10: 10% de desconto em eletrônicos e tecnologia",
+    "description": "10% de desconto em eletrônicos e tecnologia",
     "coupon": "TECNOLOGIA10",
     "shop": "mercado-livre",
     "disponible": true,
@@ -288,7 +288,7 @@
   {
     "id": 23,
     "title": "20% off acima de R$ 100 em Brinquedos",
-    "description": "Resgate direto no site/app da Amazon.",
+    "description": "Resgate direto no site/app da Amazon",
     "coupon": null,
     "shop": "amazon",
     "disponible": true,
@@ -301,7 +301,7 @@
   {
     "id": 24,
     "title": "20% off acima de R$ 100 em Jogos",
-    "description": "Resgate direto no site/app da Amazon.",
+    "description": "Resgate direto no site/app da Amazon",
     "coupon": null,
     "shop": "amazon",
     "disponible": true,
